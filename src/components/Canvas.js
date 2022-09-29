@@ -49,7 +49,7 @@ const Canvas = () => {
         setIsGameFinished(true);
       }
     }
-    //checks for empty squares in case there is no winner
+    //Checks for empty squares in case there is no winner
     let counter = 0;
     for (let i = 0; i < board.length; i++) {
       if (board[i] === "") {
