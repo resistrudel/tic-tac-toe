@@ -8,10 +8,10 @@ const ModalOverlaySC = styled.div`
   height: 200px;
   justify-content: center;
   align-items: center;
-  background: white;
   top: 40%;
   left: 45%;
   padding: 1rem;
+  background: white;
   border-radius: 14px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
   animation: slide-down 500ms ease-out forwards;
