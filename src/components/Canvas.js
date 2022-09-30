@@ -4,8 +4,8 @@ import Square from "./Square";
 import Modal from "./UI/Modal";
 
 const CanvasSC = styled.div`
-  width: 900px;
-  height: 900px;
+  width: 450px;
+  height: 450px;
   border: 1px solid black;
   margin: 100px auto;
   display: flex;
